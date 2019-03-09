@@ -19,5 +19,7 @@ module.exports = {
     'import/prefer-default-export': 0,
     'react/jsx-filename-extension': 0,
     'no-console': 0,
+    'no-plusplus': ["error", { "allowForLoopAfterthoughts": true }],
+    'prefer-destructuring': 0,
   },
 };
