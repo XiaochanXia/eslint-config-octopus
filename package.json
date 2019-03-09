@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config-octopus",
+  "version": "1.0.0",
+  "description": "eslint config for octopus",
+  "author": "Xiaochan Xia",
+  "main": "src/index.js",
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "scripts": {
+    "commitmsg": "commitlint -e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaochanXia/eslint-config-octopus.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaochanXia/eslint-config-octopus/issues"
+  },
+  "homepage": "https://github.com/XiaochanXia/eslint-config-octopus#readme",
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint-plugin-jsx-a11y": "^6.2.1"
+  },
+  "devDependencies": {
+    "eslint": "5"
+  },
+  "peerDependencies": {
+    "eslint": "5"
+  }
+}
