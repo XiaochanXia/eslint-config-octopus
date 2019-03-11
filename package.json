@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-octopus",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "eslint config for octopus",
   "author": "Xiaochan Xia",
   "main": "src/index.js",
